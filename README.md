@@ -6,6 +6,7 @@ Create 4 triangles (up, down, right, left) inside the eye by using the landmarks
 ### Landmarks & Triangles
 
 ![App Screenshot](https://github.com/feysahin/Gaze-Tracing/blob/main/images/landmarks.png)
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/landmarks.png" width="200" height="200">
 
 ### Looking Up
 
