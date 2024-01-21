@@ -9,16 +9,16 @@ Create 4 triangles (up, down, right, left) inside the eye by using the landmarks
 
 ### Looking Up
 
-<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/up.png" width="500" height="300">
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/up.png" width="600" height="300">
 
 ### Looking Down
 
-<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/down.png" width="500" height="300">
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/down.png" width="600" height="300">
 
 ### Looking Right
 
-<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/right.png" width="500" height="300">
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/right.png" width="600" height="300">
 
 ### Looking Left
 
-<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/left.png" width="500" height="300">
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/left.png" width="600" height="300">
