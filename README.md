@@ -5,21 +5,20 @@ Create 4 triangles (up, down, right, left) inside the eye by using the landmarks
 
 ### Landmarks & Triangles
 
-![App Screenshot](https://github.com/feysahin/Gaze-Tracing/blob/main/images/landmarks.png)
-<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/landmarks.png" width="200" height="200">
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/landmarks.png" width="300" height="300">
 
 ### Looking Up
 
-![App Screenshot](https://github.com/feysahin/Gaze-Tracing/blob/main/images/up.png)
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/up.png" width="500" height="300">
 
 ### Looking Down
 
-![App Screenshot](https://github.com/feysahin/Gaze-Tracing/blob/main/images/down.png)
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/down.png" width="500" height="300">
 
 ### Looking Right
 
-![App Screenshot](https://github.com/feysahin/Gaze-Tracing/blob/main/images/right.png)
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/right.png" width="500" height="300">
 
 ### Looking Left
 
-![App Screenshot](https://github.com/feysahin/Gaze-Tracing/blob/main/images/left.png)
+<img src="https://github.com/feysahin/Gaze-Tracing/blob/main/images/left.png" width="500" height="300">
